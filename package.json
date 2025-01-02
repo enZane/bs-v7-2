@@ -80,12 +80,12 @@
 		"vitest": "2.1.8",
 		"vitest-browser-react": "0.0.4"
 	},
-	"packageManager": "pnpm@9.14.2",
+	"packageManager": "pnpm@8.15.6",
 	"optionalDependencies": {
 		"@rollup/rollup-linux-x64-gnu": "^4.24.0"
 	},
 	"engines": {
-		"node": ">=22.11.0",
-		"pnpm": ">=9.14.2"
+		"node": ">=18.0.0",
+		"pnpm": ">=8.15.6"
 	}
 }
