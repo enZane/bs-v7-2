@@ -32,7 +32,7 @@ export default defineConfig({
 		}),
 	],
 	server: {
-		open: "/dashboard",
+		open: "/app",
 		// biome-ignore lint/nursery/noProcessEnv: Its ok to use process.env here
 		port: Number(process.env.PORT || 4280),
 	},
